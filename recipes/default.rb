@@ -18,4 +18,4 @@
 # limitations under the License.
 #
 
-include_recipe "optipng::install"
+include_recipe "optipng::install_#{node['optipng']['install_method']}"
