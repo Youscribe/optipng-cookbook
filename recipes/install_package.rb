@@ -1,6 +1,6 @@
 #
 # Cookbook Name:: optipng
-# Recipe:: install_package
+# Recipe:: install_package 
 # Author:: Guilhem Lettron <guilhem.lettron@youscribe.com>
 #
 # Copyright 2012, Societe Publica.
